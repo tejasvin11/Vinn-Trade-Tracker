@@ -1,0 +1,10 @@
+{
+  "name": "TradeSync Pro",
+  "description": "Institutional-grade portfolio tracker and performance analytics for traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Financial Dashboards",
+    "Performance Analytics",
+    "Trade Tracking"
+  ]
+}
